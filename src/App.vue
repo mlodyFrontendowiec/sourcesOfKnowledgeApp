@@ -6,6 +6,7 @@
 import StoredResources from './components/learning-resources/StoredResources.vue';
 export default {
   components: {
+    TheHeader
     StoredResources,
   },
   data() {
