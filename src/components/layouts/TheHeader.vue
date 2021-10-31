@@ -9,6 +9,7 @@ export default {
   props: ['title'],
 };
 </script>
+
 <style scoped>
 header {
   width: 100%;
